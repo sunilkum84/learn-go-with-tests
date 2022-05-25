@@ -1,0 +1,14 @@
+# github.com/approvals/go-approval-tests v0.0.0-20220429035603-e60d9ca44d3e
+## explicit; go 1.12
+github.com/approvals/go-approval-tests
+github.com/approvals/go-approval-tests/reporters
+github.com/approvals/go-approval-tests/utils
+# github.com/gomarkdown/markdown v0.0.0-20220510115730-2372b9aa33e5
+## explicit; go 1.12
+github.com/gomarkdown/markdown
+github.com/gomarkdown/markdown/ast
+github.com/gomarkdown/markdown/html
+github.com/gomarkdown/markdown/parser
+# github.com/gorilla/websocket v1.4.2
+## explicit; go 1.12
+github.com/gorilla/websocket
